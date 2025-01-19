@@ -150,7 +150,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                          InlineKeyboardButton("🎁 Oɴʟɪɴᴇ Wᴀᴛᴄʜ / Fᴀꜱᴛ Dᴏᴡɴʟᴏᴀᴅ 🎁", callback_data=f'generate_stream_link:{file_id}')
+                          InlineKeyboardButton("🔻 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔻", url="https://t.me/HMmedia_Movie")
                          ]
                         ]
                     )
@@ -166,7 +166,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                          InlineKeyboardButton("🎁 Oɴʟɪɴᴇ Wᴀᴛᴄʜ / Fᴀꜱᴛ Dᴏᴡɴʟᴏᴀᴅ 🎁", callback_data=f'generate_stream_link:{file_id}')
+                          InlineKeyboardButton("🔻 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔻", url="https://t.me/HMmedia_Movie")
                          ]
                         ]
                     )
@@ -328,7 +328,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                      InlineKeyboardButton("🎁 Oɴʟɪɴᴇ Wᴀᴛᴄʜ / Fᴀꜱᴛ Dᴏᴡɴʟᴏᴀᴅ 🎁", callback_data=f'generate_stream_link:{file_id}')
+                      InlineKeyboardButton("🔻 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔻", url="https://t.me/HMmedia_Movie")
                      ]
                     ]
                 )
@@ -384,7 +384,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                      InlineKeyboardButton("🎁 Oɴʟɪɴᴇ Wᴀᴛᴄʜ / Fᴀꜱᴛ Dᴏᴡɴʟᴏᴀᴅ 🎁", callback_data=f'generate_stream_link:{file_id}')
+                      InlineKeyboardButton("🔻 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔻", url="https://t.me/HMmedia_Movie")
                      ]
                     ]
                 )
@@ -439,7 +439,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-              InlineKeyboardButton("🎁 Oɴʟɪɴᴇ Wᴀᴛᴄʜ / Fᴀꜱᴛ Dᴏᴡɴʟᴏᴀᴅ 🎁", callback_data=f'generate_stream_link:{file_id}')
+              InlineKeyboardButton("🔻 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔻", url="https://t.me/HMmedia_Movie")
              ]
             ]
         )
